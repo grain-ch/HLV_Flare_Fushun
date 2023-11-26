@@ -1,0 +1,10 @@
+<ZGB058_Depth_Charge_Thrower_BMB2_wire.mfm>
+	<fx>	shaders/materials/pbs/wire_material.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/HLV_Flare_Fushun_Mod/ZSD106_Fu_Shun/gun/ZGB058_Depth_Charge_Thrower_BMB2_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/HLV_Flare_Fushun_Mod/ZSD106_Fu_Shun/gun/RGB147_Depth_Charge_Thrower_BMB2_mg.dds	</Texture>
+	</property>
+</ZGB058_Depth_Charge_Thrower_BMB2_wire.mfm>
