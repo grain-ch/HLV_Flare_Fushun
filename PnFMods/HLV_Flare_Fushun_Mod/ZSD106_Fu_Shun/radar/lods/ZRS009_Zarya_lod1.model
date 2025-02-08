@@ -1,7 +1,0 @@
-<ZRS009_Zarya_lod1.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/HLV_Flare_Fushun_Mod/ZSD106_Fu_Shun/radar/lods/ZRS009_Zarya_lod2	</parent>
-	<extent>	4.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Flare_Fushun_Mod/ZSD106_Fu_Shun/radar/lods/ZRS009_Zarya_lod1	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</ZRS009_Zarya_lod1.model>

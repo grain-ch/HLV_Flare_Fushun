@@ -1,12 +1,6 @@
 <ZGM002_130mm_B13_2c_skinned.mfm>
 	<fx>	shaders/std_effects/PBS_ship_skinned.fx	</fx>
 	<collisionFlags>	0	</collisionFlags>
-	<property>	alphaTestEnable
-		<Bool>	true	</Bool>
-	</property>
-	<property>	alphaReference
-		<Int>	150	</Int>
-	</property>
 	<property>	ambientOcclusionMap
 		<Texture>	PnFMods/HLV_Flare_Fushun_Mod/ZSD106_Fu_Shun/gun/RGM068_130mm_B13_2c_ao.dds	</Texture>
 	</property>

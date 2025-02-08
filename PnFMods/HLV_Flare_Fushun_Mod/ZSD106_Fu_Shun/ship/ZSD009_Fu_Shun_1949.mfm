@@ -1,4 +1,5 @@
 <ZSD009_Fu_Shun_1949.mfm>
+	<!--<fx>	shaders/std_effects/PBS_ship.fx	</fx>-->
 	<fx>	shaders/std_effects/PBS_ship_emissive.fx	</fx>
 	<collisionFlags>	0	</collisionFlags>
 	<property>	emissivePower
@@ -13,6 +14,7 @@
 	<property>	alphaReference
 		<Int>	150	</Int>
 	</property>
+	<collisionFlags>	0	</collisionFlags>
 	<property>	ambientOcclusionMap
 		<Texture>	PnFMods/HLV_Flare_Fushun_Mod/ZSD106_Fu_Shun/ship/ZSD009_Fu_Shun_1949_ao.dds	</Texture>
 	</property>

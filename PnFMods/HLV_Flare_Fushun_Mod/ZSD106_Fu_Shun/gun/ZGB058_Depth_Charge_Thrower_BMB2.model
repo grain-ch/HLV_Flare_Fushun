@@ -1,7 +1,6 @@
 <ZGB058_Depth_Charge_Thrower_BMB2.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLV_Flare_Fushun_Mod/ZSD106_Fu_Shun/gun/lods/ZGB058_Depth_Charge_Thrower_BMB2_lod1	</parent>
-	<extent>	3.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Flare_Fushun_Mod/ZSD106_Fu_Shun/gun/ZGB058_Depth_Charge_Thrower_BMB2	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Flare_Fushun_Mod/ZSD106_Fu_Shun/gun/ZGB058_Depth_Charge_Thrower_BMB2.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </ZGB058_Depth_Charge_Thrower_BMB2.model>
